@@ -1,20 +1,15 @@
 <h1 align="center">¡Hola, soy Jorge Zamudio! 👋</h1>
-<h3 align="center">Ingeniero de Sistemas · Retomando la programación con todo 🚀</h3>
+<h3 align="center">Ingeniero de Sistemas · Retomando la programación desde cero, con todo 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+en+C%23+.NET+%2B+Entity+Framework;Frontend+con+Angular;Procesos+ETL+%26+integraci%C3%B3n+de+datos;Volviendo+a+programar+un+commit+a+la+vez" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+en+C%23+.NET+%2B+Entity+Framework;Frontend+con+Angular;Volviendo+a+aprender+todo+de+nuevo;Un+commit+a+la+vez" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧭 Sobre mí
 
-- 🎓 Ingeniero de Sistemas (2024), con base en desarrollo **backend** (C#, .NET, Entity Framework) y **frontend** (Angular).
-- 💼 Actualmente funcionario público como técnico operativo, gestionando sistemas de información y procesos de mejora tecnológica.
-- 🔄 **Retomando la programación de forma activa** — reforzando fundamentos y construyendo proyectos propios para volver a estar en forma como desarrollador.
-- 🛠️ Experiencia previa en soporte TI, integración de datos y análisis en entidades públicas y privadas.
-- 🌱 Explorando temas nuevos mientras preparo el camino hacia una maestría en ingeniería de sistemas/software.
-- 🌍 Inglés B1 certificado (Oxford Test of English).
+Ingeniero de Sistemas con ganas de retomar la programación desde las bases y reaprender todo con calma. Después de un tiempo alejado del código activo, estoy reforzando fundamentos, construyendo proyectos propios y volviendo a estar en forma como desarrollador. Metódico, autónomo y con inglés B1 certificado.
 
 ---
 
@@ -55,34 +50,16 @@
 
 ---
 
-### 💼 Experiencia destacada
+### 💼 Experiencia
 
-- **Técnico Operativo** — Funcionario público *(jul. 2025 — actualidad)*
-  Gestión de sistemas de información, bases de datos y mejora de procesos tecnológicos.
-
-- **Soporte Tecnológico** — Distrito Especial, Industrial y Portuario de Barranquilla *(jul. 2024 — dic. 2024)*
-  Software de estadísticas policiales, análisis de datos de seguridad y justicia.
-
-- **Contratista de TI** — Cormagdalena *(oct. 2023 — dic. 2024)*
-  Administración de sitio web institucional, soporte técnico y políticas de respaldo.
-
-- **Aprendiz — Sistemas de Información Regional** — Foundever *(feb. 2022 — ago. 2022)*
-  CRUD de extremo a extremo (C#, .NET, Entity Framework + Angular) y procesos ETL.
-
----
-
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgezamudio18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jorgezamudio18&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
+Cuento con varios años de experiencia en entidades públicas y privadas, principalmente en soporte TI, integración y análisis de datos, y desarrollo de aplicaciones. He trabajado en proyectos de desarrollo CRUD de extremo a extremo (C#, .NET, Entity Framework y Angular), procesos ETL, administración de bases de datos, soporte técnico y tableros de gestión en Power BI, en organizaciones como Cormagdalena, el Distrito de Barranquilla y Foundever, entre otras.
 
 ---
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-zamudio)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-zamudio-303108224/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jorgezamudiom18@gmail.com)
 
 <p align="center"><i>Metódico, autónomo y con ganas de construir cosas bien hechas. Abierto a oportunidades como desarrollador de software 🚀</i></p>
+
